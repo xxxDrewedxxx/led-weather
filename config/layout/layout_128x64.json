@@ -46,7 +46,7 @@
       "align": "center-top"
     },
     "scheduled_time": {
-      "position": [0, 2],
+      "position": [1, 2],
       "relative": {
         "to": "scheduled_date",
         "align": "center-bottom"
@@ -757,7 +757,7 @@
   },
   "wx_alert":{
     "warning": {
-      "position": ["50%","42%"],
+      "position": ["50%","1%"],
       "font": "wx_medium",
       "align": "center-center"
     },
