@@ -1,18 +1,18 @@
 {
   "_default": {
-    "file": "04B_24__.TTF",
+    "file": "runescape_uf.ttf",
     "size": 16
   },
   "default_medium": {
-    "file": "score_large.otf",
+    "file": "Perfect DOS VGA 437.ttf",
     "size": 16
   },
   "medium": {
-    "file": "score_large.otf",
+    "file": "07558_CenturyGothic.ttf",
     "size": 32
   },
   "medium_2": {
-    "file": "04B_24__.TTF",
+    "file": "07558_CenturyGothic.ttf",
     "size": 16
   },
    "small": {
@@ -28,7 +28,7 @@
     "size": 40
   },
   "wxicons_full": {
-    "file": "weathericons.otf",
+    "file": "runescape_uf.ttf",
     "size": 32
   },
   "wxicons_lg": {
@@ -40,23 +40,23 @@
     "size": 24
   },
   "wx_medium": {
-    "file": "press2p.ttf",
+    "file": "Perfect DOS VGA 437.ttf",
     "size": 8
   },
    "wx_small": {
-    "file": "Gameboy.ttf",
+    "file": "07558_CenturyGothic.ttf",
     "size": 8
   },
   "wx_large": {
-    "file": "04B_03B_.TTF",
+    "file": "07558_CenturyGothic.ttf",
     "size": 26
   },
   "wx_alert": {
-    "file": "vcr_mono.ttf",
+    "file": "07558_CenturyGothic.ttf",
     "size": 14
   },
   "wx_alert_sm": {
-    "file": "press2p.ttf",
+    "file": "07558_CenturyGothic.ttf",
     "size": 9
   }
 
